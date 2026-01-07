@@ -1,0 +1,7 @@
+{
+  "name": "Lekhok AI - Story Studio",
+  "description": "Professional writing suite with AI-powered Cinematic Scenes, Graphic Novel architect, and Vocalization.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
